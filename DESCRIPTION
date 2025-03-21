@@ -1,0 +1,14 @@
+Package: DifferenceEquationsInR
+Type: Package
+Title: Simulate and analyze difference equations and other discrete or finite dynamical systems
+Version: 0.1
+Date: 2025-03-08
+Imports: igraph
+Author: Seth M. Spain
+Maintainer: Seth M. Spain <smspain@gmail.com>
+Description: Provides functions for the modeling, simulation, and
+    analysis of difference equations, cellular automata models, Boolean networks
+    and other discrete or finite dynamical systems
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 7.3.1
